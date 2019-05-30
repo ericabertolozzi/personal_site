@@ -9,17 +9,13 @@ ul {
 }
 li a {
   display: block;
+  background-color: white;
   color: #5e0730;
   padding: 16px 16px;
   text-decoration: none;
 }
-/* Change the link color on hover */
-li a:hover {
+li a:hover, a.active-link {
+  color: white;
   text-decoration: none;
-  background-color: #5e0730;
-  color: white;
-}
-.active-link {
-  background-color: #5e0730;
-  color: white;
+  background: #5e0730;
 }
