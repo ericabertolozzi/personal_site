@@ -1,21 +1,3 @@
-nav ul {
-  text-align: center;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  width: 200px;
-} 
-li a {
-  display: block;
-  color: #5e0730;
-  padding: 16px 16px;
-  text-decoration: none;
-}
-.active-link, li a:hover {
-  color: white;
-  text-decoration: none;
-  background: #5e0730;
-}
-.btn-success {
-  color: #5e0730;
+body {
+  background: "blue.jpg";
 }
