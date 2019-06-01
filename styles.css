@@ -4,11 +4,9 @@ nav ul {
   margin: 0;
   padding: 0;
   width: 200px;
-  background-color: white;
 } 
 li a {
   display: block;
-  background-color: white;
   color: #5e0730;
   padding: 16px 16px;
   text-decoration: none;
@@ -17,4 +15,7 @@ li a {
   color: white;
   text-decoration: none;
   background: #5e0730;
+}
+.btn-success {
+  color: #5e0730;
 }
